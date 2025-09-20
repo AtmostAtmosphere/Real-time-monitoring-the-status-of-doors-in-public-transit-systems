@@ -1,10 +1,8 @@
-# CV-final
+# Computer Vision Project
 ---
 
 ## Real-Time Monitoring of Door Status in Public Transit Systems
 
-> Group Number: 22
-> 
 
 > R12942181 陳祈安, B09901045 吳名洋, B09901082 楊秉嶧, B09901152 施文威
 > 
